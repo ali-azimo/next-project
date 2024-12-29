@@ -1,6 +1,8 @@
 export default function Home() {
-    return ( <
-        div className = "bg-blue-500" >
+    return (
+
+        <
+        div className = "text-red-500" >
         Home <
         /div>
     )
